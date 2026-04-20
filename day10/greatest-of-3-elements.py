@@ -8,4 +8,3 @@ elif B>A and B>C:
     print("greatest number is -:",B) 
 else:
     print("greatest number is -:",C)
-           

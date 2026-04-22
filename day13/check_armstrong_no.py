@@ -22,7 +22,7 @@ if sum == actual_no :
     print ("Your Num Is Amstrong Number ")  
     
 else:
-    print("please enter valid number")      
+    print("please enter valid number.")      
     
 
 
